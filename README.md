@@ -33,17 +33,17 @@ State Management: ViewModel, LiveData/StateFlow
 
 🔧 Installation
 
-Clone the repository:
+1- Clone the repository:
 
-git clone https://github.com/yourusername/AIChatbot.git
+  git clone https://github.com/yourusername/AIChatbot.git
 
-Open the project in Android Studio.
+2- Open the project in Android Studio.
 
-Add your Gemini AI API Key in gradle.properties or local.properties:
+3- Add your Gemini AI API Key in gradle.properties or local.properties:
 
-GEMINI_API_KEY=your_api_key_here
+  GEMINI_API_KEY=your_api_key_here
 
-Sync the project and run the app.
+4-Sync the project and run the app.
 
 🚀 API Setup
 
